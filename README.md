@@ -2,8 +2,6 @@
 
 A grocery list app built for the Trodo JavaScript assignment. The frontend is React with Vite; a Cloudflare Worker handles the API and stores items in D1.
 
-**Live app:** https://trodo-grocery-list.trodo-grocery-list-mk.workers.dev
-
 ## What it does
 
 - Add groceries with a name, price, and automatically recorded creation date.
